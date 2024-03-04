@@ -1,2 +1,2 @@
-# CourseraTest3.4.2024
-corusera test repo
+# CourseraTest
+Coursera Test Repo
